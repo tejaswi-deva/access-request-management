@@ -1,3 +1,8 @@
 /node_modules
 .env
 /index-ass.js
+
+
+mongodb+srv://tejaswi_deva:devatejaswi
+@access-request-manageme.pd7t4vy.mongodb.net/crms-db?
+retryWrites=true&w=majority 
